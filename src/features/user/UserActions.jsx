@@ -22,8 +22,8 @@ const UserActions = () => {
 
     dispatch(resetUsers());
   } catch (error) {
-    console.error('Error sending users:', error);
-    alert('Error sending user data!');
+    // console.error('Error sending users:', error);
+    // alert('Error sending user data!');
   }
   };
 
