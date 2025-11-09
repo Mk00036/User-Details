@@ -31,30 +31,6 @@ const initialState: UserState = {
       department: 'Engineering',
       id: 'afef83cf-9441-42ae-8a71-9e63fd795029',
     },
-     {
-      name: 'suresh',
-      age: '24',
-      phone: '88856678',
-      address: 'salem',
-      department: 'Engineering',
-      id: 'afef83cf-9441-42ae-8a71-9e63fd795029',
-    },
-     {
-      name: 'suresh',
-      age: '24',
-      phone: '88856678',
-      address: 'salem',
-      department: 'Engineering',
-      id: 'afef83cf-9441-42ae-8a71-9e63fd795029',
-    },
-     {
-      name: 'suresh',
-      age: '24',
-      phone: '88856678',
-      address: 'salem',
-      department: 'Sales',
-      id: 'afef83cf-9441-42ae-8a71-9e63fd795029',
-    },
    
   ],
 };
