@@ -7,9 +7,13 @@ const App = () => {
   return (
     <div className="container">
       <h1>User Details App</h1>
-      <UserForm />
-      <UserGrid />
-      <UserActions />
+      <div className="user-layout">
+        <UserForm />
+        <UserGrid />
+      </div>
+      <div className="user-actions">
+        <UserActions />
+      </div>
     </div>
   );
 };
